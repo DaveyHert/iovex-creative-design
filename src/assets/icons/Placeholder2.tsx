@@ -1,0 +1,142 @@
+import * as React from "react";
+import type { SVGProps } from "react";
+const SvgPlaceholder2 = (props: SVGProps<SVGSVGElement>) => (
+  <svg
+    xmlns="http://www.w3.org/2000/svg"
+    width={258}
+    height={82}
+    fill="none"
+    {...props}
+  >
+    <rect
+      width={255.788}
+      height={79.246}
+      x={1.443}
+      y={1.289}
+      fill="url(#placeholder-2_svg__a)"
+      fillOpacity={0.1}
+      rx={9.5}
+    />
+    <rect
+      width={255.788}
+      height={79.246}
+      x={1.443}
+      y={1.289}
+      fill="url(#placeholder-2_svg__b)"
+      fillOpacity={0.6}
+      rx={9.5}
+    />
+    <rect
+      width={255.788}
+      height={79.246}
+      x={1.443}
+      y={1.289}
+      stroke="url(#placeholder-2_svg__c)"
+      rx={9.5}
+    />
+    <rect
+      width={30}
+      height={6.83}
+      x={195.344}
+      y={29.486}
+      fill="#8975A2"
+      rx={3.415}
+    />
+    <rect
+      width={30}
+      height={6.83}
+      x={195.344}
+      y={58.531}
+      fill="#B77EFB"
+      rx={3.415}
+    />
+    <rect
+      width={49.661}
+      height={6.83}
+      x={195.344}
+      y={44.01}
+      fill="#8975A2"
+      rx={3.415}
+    />
+    <rect
+      width={39.658}
+      height={6.83}
+      x={195.344}
+      y={14.963}
+      fill="#8975A2"
+      rx={3.415}
+    />
+    <rect
+      width={50}
+      height={7.834}
+      x={30.106}
+      y={16.709}
+      fill="#8975A2"
+      rx={3.917}
+    />
+    <path
+      fill="#B77EFB"
+      d="M23.377 19.103a.64.64 0 0 1-.44.608l-1.131.373a2.4 2.4 0 0 0-1.522 1.528l-.392 1.126a.66.66 0 0 1-.234.313.638.638 0 0 1-.981-.325l-.38-1.132a2.35 2.35 0 0 0-.601-.938 2.44 2.44 0 0 0-.945-.602l-1.131-.38a.63.63 0 0 1-.32-.228.65.65 0 0 1 0-.752.63.63 0 0 1 .325-.235l1.126-.379c.362-.122.69-.328.956-.602.271-.266.478-.592.602-.95l.373-1.114a.6.6 0 0 1 .217-.319.6.6 0 0 1 .373-.132.66.66 0 0 1 .38.108c.113.072.2.18.246.307l.379 1.15c.124.358.33.684.602.95.265.273.59.48.95.602l1.126.397a.6.6 0 0 1 .422.626m-5.94 4.17a.6.6 0 0 1-.108.343.6.6 0 0 1-.289.21l-.812.272c-.228.08-.434.212-.602.385-.171.17-.303.375-.385.601l-.283.807a.6.6 0 0 1-.21.289.6.6 0 0 1-.692 0 .6.6 0 0 1-.211-.29l-.265-.806a1.6 1.6 0 0 0-.386-.601 1.6 1.6 0 0 0-.601-.385l-.813-.265a.6.6 0 0 1-.403-.56.6.6 0 0 1 .41-.56l.806-.264a1.67 1.67 0 0 0 .986-.987l.271-.794a.6.6 0 0 1 .199-.29.6.6 0 0 1 .686-.03.63.63 0 0 1 .229.29l.27.824a1.67 1.67 0 0 0 .987.987l.806.283c.116.036.215.11.283.21.077.094.121.21.127.331"
+    />
+    <rect
+      width={30}
+      height={7.834}
+      x={30.106}
+      y={38.117}
+      fill="#8975A2"
+      rx={3.917}
+    />
+    <path
+      fill="#B77EFB"
+      d="M13.363 46.035a.96.96 0 0 1-.707-.293.97.97 0 0 1-.293-.707v-6q0-.412.293-.706a.97.97 0 0 1 .707-.294h8q.412 0 .706.294a.96.96 0 0 1 .294.706v6q0 .412-.294.707a.96.96 0 0 1-.706.293zm4-3.5 4-2.5v-1l-4 2.5-4-2.5v1z"
+    />
+    <rect
+      width={60}
+      height={7.834}
+      x={30.106}
+      y={60.291}
+      fill="#8975A2"
+      rx={3.917}
+    />
+    <path
+      fill="#B77EFB"
+      d="M17.946 63.886a1.607 1.607 0 1 1 0-3.214 1.607 1.607 0 0 1 0 3.214m0-6.107a4.5 4.5 0 0 0-4.5 4.5c0 3.375 4.5 8.357 4.5 8.357s4.5-4.982 4.5-8.357a4.5 4.5 0 0 0-4.5-4.5"
+    />
+    <defs>
+      <linearGradient
+        id="placeholder-2_svg__a"
+        x1={129.34}
+        x2={129.34}
+        y1={0.789}
+        y2={81.035}
+        gradientUnits="userSpaceOnUse"
+      >
+        <stop stopColor="#fff" />
+        <stop offset={1} stopColor="#fff" stopOpacity={0.3} />
+      </linearGradient>
+      <linearGradient
+        id="placeholder-2_svg__b"
+        x1={129.338}
+        x2={129.338}
+        y1={0.789}
+        y2={81.035}
+        gradientUnits="userSpaceOnUse"
+      >
+        <stop stopColor="#211040" stopOpacity={0} />
+        <stop offset={1} stopColor="#13042F" />
+      </linearGradient>
+      <linearGradient
+        id="placeholder-2_svg__c"
+        x1={129.338}
+        x2={129.338}
+        y1={-3.697}
+        y2={78.649}
+        gradientUnits="userSpaceOnUse"
+      >
+        <stop stopColor="#4F376F" />
+        <stop offset={1} stopColor="#270B4B" stopOpacity={0.2} />
+      </linearGradient>
+    </defs>
+  </svg>
+);
+export default SvgPlaceholder2;

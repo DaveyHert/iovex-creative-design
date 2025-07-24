@@ -1,0 +1,29 @@
+import * as React from "react";
+import type { SVGProps } from "react";
+const SvgPen = (props: SVGProps<SVGSVGElement>) => (
+  <svg
+    xmlns="http://www.w3.org/2000/svg"
+    width={18}
+    height={19}
+    fill="none"
+    {...props}
+  >
+    <path
+      stroke="#AEAEB8"
+      strokeLinecap="round"
+      strokeLinejoin="round"
+      strokeMiterlimit={10}
+      strokeWidth={1.5}
+      d="M9.947 3.2 3.79 9.718c-.233.247-.458.735-.503 1.072l-.277 2.43c-.098.878.532 1.478 1.402 1.328l2.415-.413c.338-.06.81-.307 1.043-.562l6.157-6.518c1.066-1.125 1.546-2.407-.112-3.975-1.65-1.552-2.902-1.005-3.968.12"
+    />
+    <path
+      stroke="#AEAEB8"
+      strokeLinecap="round"
+      strokeLinejoin="round"
+      strokeMiterlimit={10}
+      strokeWidth={1.5}
+      d="M8.918 4.287a4.595 4.595 0 0 0 4.088 3.863M2.25 17h13.5"
+    />
+  </svg>
+);
+export default SvgPen;
